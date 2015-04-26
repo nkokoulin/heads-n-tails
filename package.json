@@ -1,0 +1,14 @@
+{
+  "name": "lesson2",
+  "version": "0.0.1",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0"
+  },
+  "devDependencies": {}
+}
